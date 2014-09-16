@@ -8,8 +8,8 @@ DESC
   s.homepage = "https://github.com/chrismiles/EZForm"
   s.license = 'MIT'
   s.author = { "Chris Miles" => "miles.chris@gmail.com" }
-  s.source = { :git => "https://github.com/chrismiles/EZForm.git", :tag => "1.1.4" }
-  s.platform = :ios, '5.0'
+  s.source = { :git => "https://raw.githubusercontent.com/jdp-global/EZForm/master/EZForm.podspec", :tag => "1.1.4" }
+  s.platform = :ios, '6.0'
   s.source_files = 'EZForm/EZForm/src'
   s.framework = 'UIKit'
   s.requires_arc = true
